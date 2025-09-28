@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\bin\Debug\net9.0\I_hate_working_with_files.exe
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\bin\Debug\net9.0\I_hate_working_with_files.deps.json
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\bin\Debug\net9.0\I_hate_working_with_files.runtimeconfig.json
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\bin\Debug\net9.0\I_hate_working_with_files.dll
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\bin\Debug\net9.0\I_hate_working_with_files.pdb
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.AssemblyInfo.cs
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.sourcelink.json
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.dll
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\refint\I_hate_working_with_files.dll
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.pdb
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\I_hate_working_with_files.genruntimeconfig.cache
+C:\Users\User\RiderProjects\UI\I_hate_working_with_files\obj\Debug\net9.0\ref\I_hate_working_with_files.dll
